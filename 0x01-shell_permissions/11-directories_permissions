@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -R ugo+X
+mkdir -r ugo+x
